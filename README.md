@@ -64,5 +64,4 @@ Precision:
 ---
 
 ## Run Instructions
-
--python main.py
+python main.py
