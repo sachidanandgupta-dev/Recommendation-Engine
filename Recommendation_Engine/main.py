@@ -34,7 +34,7 @@ def main():
 
     # Output
     print("Candidates:", candidates)
-    print("Scores:", scores)
+    print("Scores:", scores) 
     print("Top Recommendations:", top_items)
     print("Precision:", precision_score)
 
